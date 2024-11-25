@@ -4,4 +4,4 @@ root: index.md
 parts:
   - caption: Example
     chapters:
-    - file: index.md
+    - file: index2.md
