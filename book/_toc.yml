@@ -1,7 +1,6 @@
 format: jb-book
 root: index.md
 
-parts:
-  - caption: Example
-    chapters:
-    - file: index2.md
+chapters:
+- file: index2.md
+- file: other.md
