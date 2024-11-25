@@ -3,4 +3,4 @@ root: index.md
 
 chapters:
 - file: index2.md
-- file: other.md
+- file: folder/other.md
