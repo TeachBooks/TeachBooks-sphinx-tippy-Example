@@ -4,3 +4,4 @@ root: index.md
 chapters:
 - file: index2.md
 - file: folder/other.md
+- file: credits.md
