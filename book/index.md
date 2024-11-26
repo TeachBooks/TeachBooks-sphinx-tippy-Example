@@ -3,17 +3,17 @@
 Rich tool tips in your TeachBook!
 
 
-This book aims to present the use of TeachBooks Sphinx-Tippy. The repository of the extension in question can be found [here](https://github.com/TeachBooks/teachbooks-sphinx-tippy). The README.md file in that repository explains how to apply this theme to a book.
+This book aims to present the use of TeachBooks Sphinx-Tippy. The repository of the extension in question can be found [here](https://github.com/TeachBooks/teachbooks-sphinx-tippy). The README file in that repository explains how to apply this functionality to a book.
+
+## Examples
+
+The following links will be automatically generated once you loaded TeachBooks Sphinx-Tippy as an extra extension in your config.
 
 :::{list-table}
-
--  - [Custom tip](https://example.com)
 
 -  - [Wikipedia tips](https://en.wikipedia.org/wiki/Tooltip)
 
 -  - [DOI tip](https://doi.org/10.1186/gm483)
-
--  - [ReadTheDocs tip](https://www.sphinx-doc.org/en/master/usage/quickstart.html#intersphinx)
 
 -  - {ref}`Figure reference with URL image <figure-name-url>`
 
@@ -26,8 +26,6 @@ This book aims to present the use of TeachBooks Sphinx-Tippy. The repository of 
 -  - {py:class}`Python Class reference <Foo>`
 
 -  - {ref}`Table reference <table-name>`
-
--  - {ref}`Heading reference <intro/usage>`
 
 -  - {doc}`Document reference <folder/other>`
 

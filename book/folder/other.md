@@ -1,4 +1,3 @@
-
 # Content page
 
 This is an example of a page with lots of elements we would like to reference.
