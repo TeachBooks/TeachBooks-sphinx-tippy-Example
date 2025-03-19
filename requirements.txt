@@ -3,4 +3,6 @@ teachbooks # depends on jupyter-book
 jupyterbook-patches
 sphinx-image-inverter
 download_link_replacer
-teachbooks-sphinx-tippy
+# teachbooks-sphinx-tippy
+
+git+https://github.com/TeachBooks/teachbooks-sphinx-tippy.git
